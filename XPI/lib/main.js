@@ -84,7 +84,7 @@ let XHRCache = {
 //				continue;
 //			}
 
-			//Weight by hits/age which is similar to reddit's hit/controversial sort orders
+			//Weight by hits/age which is similar to the fempire's hit/controversial sort orders
 			bottom.push({
 				key: key,
 				weight: this.entries[key].hits/(now - this.entries[key].timestamp)
@@ -114,7 +114,7 @@ tabs.on('activate', function(tab) {
 
 
 pageMod.PageMod({
-	include: ["*.reddit.com"],
+	include: ["*.thefempire.org"],
 	contentScriptWhen: 'start',
 	contentScriptFile: [
 		self.data.url('jquery-1.10.2.min.js'),
