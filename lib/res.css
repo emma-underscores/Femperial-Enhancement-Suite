@@ -819,30 +819,6 @@ a.RESNotificationButtonBlue {
 	border-radius: 3px;
 	background-color: #107ac4;
 }
-#baconBit {
-	position: fixed;
-	width: 32px;
-	height: 32px;
-	background-image: url("http://thumbs.reddit.com/t5_2s10b_6.png");
-	top: -5%;
-	left: -5%;
-	z-index: 999999;
-	-webkit-transform: rotate(0deg);
-	-moz-transform: rotate(0deg);
-	transform: rotate(0deg);
-	-webkit-transition: all 2s linear;
-	-moz-transition: all 2s linear;
-	-o-transition: all 2s linear;
-	-ms-transition: all 2s linear;
-	-transition: all 2s linear;
-}
-#baconBit.makeitrain {
-	top: 100%;
-	left: 100%;
-	-webkit-transform: rotate(2000deg);
-	-moz-transform: rotate(2000deg);
-	transform: rotate(2000deg);
-}
 .blueButton {
 	cursor: pointer;
 	padding: 3px 5px;
