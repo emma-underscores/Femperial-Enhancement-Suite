@@ -1,11 +1,11 @@
 {
-    "name": "reddit_res",
+    "name": "fempire_fes",
     "license": "GPL",
-    "author": "honestbleeps", 
+    "author": "emma-underscores", 
     "version": "4.3.1.2",
-    "fullName": "Reddit Enhancement Suite",
+    "fullName": "Femperial Enhancement Suite",
     "id": "jid1-xUfzOsOFlzSOXg",
-    "description": "A suite of tools to enhance Reddit",
+    "description": "A suite of tools to enhance The Fempire",
     "permissions": {
     	"private-browsing": true
     }
