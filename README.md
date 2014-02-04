@@ -1,3 +1,9 @@
+This is a fork of the reddit enhancement suite designed to work on thefempire.org, for now primarily concerned with getting it to work on Firefox. There is already [a version that works for chrome](http://www.thefempire.org/r/meta/comments/271/femperial_enhancement_suite_now_works_again/)
+
+The rest of this readme is just stuff from the RES readme that I haven't bothered updating yet.
+
+---
+
 EXISTING RES CONTRIBUTORS: Please read the "afterwords..." part of [this comment](https://github.com/honestbleeps/Reddit-Enhancement-Suite/pull/451#issuecomment-23672706) and perform the necessary steps to get your repo back to normal.
 
 For general documentation, see the RES Wiki (http://redditenhancementsuite.com:8080/wiki/), at least until the new documentation is finished.
